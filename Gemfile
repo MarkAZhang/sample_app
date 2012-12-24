@@ -30,7 +30,7 @@ group :production do
 end
 
 group :test do
-  gem 'pg', '0.12.2'
+  gem 'capybara', '1.1.2'
 end
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
