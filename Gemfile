@@ -40,6 +40,7 @@ group :test do
   gem 'rb-inotify', '0.8.8'
   gem 'rb-readline'
   gem 'libnotify', '0.5.9'
+  gem 'factory_girl_rails', '4.1.0'
 end
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
